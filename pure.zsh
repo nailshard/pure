@@ -22,7 +22,8 @@
 # \e8   => restore cursor position
 # \e[K  => clears everything after the cursor on the current line
 # \e[2K => clear everything on the current line
-
+PURE_PROMPT_SYMBOL=('❯''❯''❯')
+PURE_PROMPT_VICMD_SYMBOL=('❮''❮''❮')
 
 # Turns seconds into human readable time.
 # 165392 => 1d 21h 56m 32s
